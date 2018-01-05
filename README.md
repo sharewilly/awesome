@@ -1,4 +1,4 @@
-# awesome
+# Awesome
 Curated list of bookmarks and links for frontend-developer and web designer
 
 ### Animations
@@ -9,6 +9,7 @@ A curated directory of boilerplates to help you start your projects! http://www.
 
 ### Bots
 The collaborative platform to build, train, deploy and monitor intelligent bots https://recast.ai/
+Easy way to build a smart and customized rule-based bot conversation: https://andersonba.github.io/yve-bot/
 
 ### Colors
 Colordot - A color picker for humans: https://color.hailpixel.com/
