@@ -4,6 +4,13 @@ Curated list of bookmarks and links for frontend-developer and web designer
 ### Animations
 With Animatic it's easy to animate over a hundred objects at a time: http://lvivski.com/animatic/
 
+### ASCI-Art
+converts your picture to ASCII text art: http://www.glassgiant.com/ascii/
+
+http://patorjk.com/software/taag/#p=display&h=3&v=2&f=Ghost&t=geist
+
+Image to text: http://www.degraeve.com/img2txt.php
+
 ### Boilerplates
 A curated directory of boilerplates to help you start your projects! http://www.boilrplate.com/
 
@@ -65,6 +72,10 @@ Move it http://tobiasahlin.com/moving-letters/
 ### Laravel
 The Missing Laravel Admin: https://the-control-group.github.io/voyager/
 
+13 Laravel Admin Panel Generators: https://laravel-news.com/13-laravel-admin-panel-generators
+
+How to install Laravel 5 with Xampp (Windows): https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji
+
 ### Modals
 The Most Explosive Modal on the Web http://explodal.com/
 
@@ -86,6 +97,8 @@ GenerateWP - Delightful tools for WordPress Developers https://generatewp.com/
 Quickly generate WordPress Customizer Panels, Sections and Settings.: https://dev.lws-webdesign.de/generator/customizer-v3/
 
 WordPress Metabox Generator: https://www.wp-hasty.com/tools/wordpress-metabox-generator/
+
+White Labeling Your WordPress Site: The Complete Guide: https://premium.wpmudev.org/blog/white-labeling-wordpress/?omtr=b&utm_expid=3606929-101.yRvM9BqCTnWwtfcczEfOmg.1&utm_referrer=https%3A%2F%2Fwww.google.de%2F
 
 
 
